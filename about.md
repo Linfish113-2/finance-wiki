@@ -1,0 +1,7 @@
+---
+layout: default
+title: 關於本站
+permalink: /about/
+description: Finance Wiki 的網站宗旨、資訊品質規範與 AGENTS.md 工作流程。
+---
+<div class="container about-page"><div class="eyebrow"><span class="dot"></span> ABOUT FINANCE WIKI</div><h1>不只做出網站，<br><span class="gradient-text">更建立可延續的規則。</span></h1><div class="about-grid"><div class="about-prose"><h2>這是什麼網站？</h2><p>Finance Wiki 是面向想開始投資理財的社會大眾的開放式金融入門知識庫。以繁體中文、中英術語、實際範例、計算公式與風險提醒，幫助讀者理解金融商品，不提供個別商品買賣建議。</p><h2>AI 是如何參與開發？</h2><p>本專案以 <code>AGENTS.md</code> 作為 AI 的工作手冊，規定新增文章的欄位、檔案命名、資料來源、設計系統、修改權限、測試與發布流程。未來更換 AI 或重新開啟專案，都可以按照相同規則持續擴充。</p><h2>可靠資訊的四個承諾</h2><ol><li>重要金融事實優先引用可追溯的官方及權威資料。</li><li>教學假設數值明確標示；真實資料註明來源及資料日期。</li><li>不編造金融法規、不保證投資收益、不提供個人化投資推薦。</li><li>不確定資訊進入待查證清單，確認前不公開作為確定事實。</li></ol><h2>開發與維護</h2><p>技術使用 Jekyll＋Markdown＋共用 CSS，以 GitHub 進行版本管理，並預計透過 GitHub Actions 部署 GitHub Pages。所有公開發布均須經製作者確認。</p></div><aside class="about-panel"><div class="about-panel-head">PROJECT PROFILE <span>↗</span></div><div class="about-line"><span>Project</span><strong>Finance Wiki</strong></div><div class="about-line"><span>Owner</span><strong>林姵妤</strong></div><div class="about-line"><span>School</span><strong>國立臺北大學</strong></div><div class="about-line"><span>Department</span><strong>經濟學系</strong></div><div class="about-line"><span>Stack</span><strong>Jekyll / Markdown</strong></div><div class="about-line"><span>Focus</span><strong>AGENTS.md</strong></div><div class="notice"><strong>使用提醒</strong><p>本文內容僅為金融教育資訊，產品費用、法令、稅負及條件請以實際提供機構最新公告為準。</p></div></aside></div></div>

@@ -1,0 +1,6 @@
+<a class="article-card" href="{{ include.article.url | relative_url }}" data-category="{{ include.article.category }}">
+  <div class="article-card-top"><span class="pill pill-{{ include.article.category }}">{% assign category_name = site.data.categories | where: 'id', include.article.category | first %}{{ category_name.name }}</span><span class="article-arrow" aria-hidden="true">↗</span></div>
+  <h3>{{ include.article.title }}</h3>
+  <p>{{ include.article.description }}</p>
+  <div class="card-bottom"><span>入門教學</span><span>{{ include.article.reading_time }} 分鐘閱讀</span></div>
+</a>

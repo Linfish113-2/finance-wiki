@@ -1,0 +1,28 @@
+title: Finance Wiki
+description: 用可靠來源與生活範例，讀懂投資理財。
+url: "https://linfish113-2.github.io"
+baseurl: "/finance-wiki"
+lang: zh-Hant-TW
+timezone: Asia/Taipei
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+collections:
+  articles:
+    output: true
+    permalink: /articles/:name/
+defaults:
+  - scope:
+      path: ""
+      type: articles
+    values:
+      layout: article
+exclude:
+  - README.md
+  - AGENTS.md
+  - Gemfile
+  - Gemfile.lock
+  - scripts
+  - docs
+  - vendor
+  - .github

@@ -1,0 +1,35 @@
+- id: stocks
+  name: 股票
+  en: Stocks
+  icon: ST
+  description: 看懂股價、企業價值與投資成本
+- id: etf
+  name: ETF
+  en: Exchange-Traded Funds
+  icon: ET
+  description: 比較費用、成分、追蹤與配息
+- id: funds
+  name: 基金
+  en: Mutual Funds
+  icon: FD
+  description: 讀懂基金淨值、績效與管理成本
+- id: bonds
+  name: 債券
+  en: Bonds
+  icon: BD
+  description: 了解利率、殖利率與信用風險
+- id: banking
+  name: 銀行與存款
+  en: Banking
+  icon: BK
+  description: 計算利息、比較存款方案
+- id: insurance
+  name: 保險
+  en: Insurance
+  icon: IN
+  description: 盤點保障缺口、讀懂保單條款
+- id: planning
+  name: 風險與理財
+  en: Planning
+  icon: PL
+  description: 建立資產配置與風險管理習慣

@@ -1,0 +1,16 @@
+---
+layout: default
+---
+{% assign cat = site.data.categories | where: 'id', page.category | first %}
+<div class="container article-shell">
+  <nav class="breadcrumbs" aria-label="麵包屑導覽"><a href="{{ '/' | relative_url }}">首頁</a><span aria-hidden="true">/</span><a href="{{ '/' | relative_url }}#explore">{{ cat.name }}</a><span aria-hidden="true">/</span><span aria-current="page">{{ page.title }}</span></nav>
+  <div class="article-grid">
+    <article class="article-main">
+      <header class="article-header"><span class="pill pill-{{ page.category }}">{{ cat.name }} · {{ cat.en }}</span><h1>{{ page.title }}</h1><p class="article-lead">{{ page.description }}</p><div class="article-meta"><span>約 {{ page.reading_time }} 分鐘</span><span>更新日期：{{ page.updated }}</span><span>來源：{{ page.sources.size }} 筆</span></div></header>
+      <div class="article-body" id="article-body">{{ content }}</div>
+      <section class="source-section" aria-labelledby="source-title"><h2 id="source-title">參考資料與查證</h2><p>以下為本篇撰寫時參考的機構資料；閱讀者仍應以來源最新公告與商品公開說明書為準。</p><ol>{% for src in page.sources %}<li><a href="{{ src.url }}" target="_blank" rel="noopener noreferrer">{{ src.name }} <span aria-hidden="true">↗</span></a></li>{% endfor %}</ol><div class="notice"><strong>投資風險提醒</strong><p>{{ page.risk_note | default: '投資與金融決策均涉及風險，文中教學範例不代表實際報價或獲利保證。' }}</p></div></section>
+      <section class="related-section" aria-labelledby="related-title"><div class="section-heading"><h2 id="related-title">延伸閱讀</h2><a href="{{ '/' | relative_url }}#library">所有文章 ↗</a></div><div class="related-grid">{% for slug in page.related %}{% assign item = site.articles | where: 'slug', slug | first %}{% if item %}{% include article-card.html article=item %}{% endif %}{% endfor %}</div></section>
+    </article>
+    <aside class="article-sidebar"><div class="sticky-panel"><span class="aside-kicker">ON THIS PAGE</span><h2>文章目錄</h2><nav aria-label="文章章節" id="article-toc"><p>載入章節中…</p></nav><a class="back-link" href="{{ '/' | relative_url }}#library">← 返回知識文章</a></div></aside>
+  </div>
+</div>
