@@ -1,0 +1,137 @@
+[
+  {
+    "num": 1,
+    "kind": "cover",
+    "eyebrow": "FINANCE BASICS · 01",
+    "title": "把投資變得\n比較好理解。",
+    "subtitle": "ETF 投資入門 · 從零開始的 10 頁微課程",
+    "takeaway": "你不用先懂金融，也能建立選擇 ETF 的基本判斷力。",
+    "cite": [
+      "E01"
+    ],
+    "tag": "入門導覽"
+  },
+  {
+    "num": 2,
+    "kind": "roadmap",
+    "eyebrow": "LEARNING PATH",
+    "title": "10 分鐘，先學會這 4 件事",
+    "subtitle": "先懂商品，再學會識別風險與費用",
+    "takeaway": "不是教你買哪一檔，而是教你怎麼判斷。",
+    "cite": [
+      "E17"
+    ],
+    "tag": "學習目標"
+  },
+  {
+    "num": 3,
+    "kind": "basket",
+    "eyebrow": "01 / THE IDEA",
+    "title": "ETF = 可以在市場交易的基金",
+    "subtitle": "一個商品，可以裝進多種資產",
+    "takeaway": "「一籃子」不代表「一定安全」；有些 ETF 持股仍很集中。",
+    "cite": [
+      "E01",
+      "E04"
+    ],
+    "tag": "基本概念"
+  },
+  {
+    "num": 4,
+    "kind": "types",
+    "eyebrow": "02 / THE TYPES",
+    "title": "同樣叫 ETF，內容可能差很多",
+    "subtitle": "先分清「投資什麼」與「如何管理」",
+    "takeaway": "目前已有主動式 ETF；並非所有 ETF 都只追蹤指數。",
+    "cite": [
+      "E02",
+      "E03",
+      "E16"
+    ],
+    "tag": "商品種類"
+  },
+  {
+    "num": 5,
+    "kind": "mechanism",
+    "eyebrow": "03 / THE MECHANISM",
+    "title": "為什麼 ETF 會有兩種價格？",
+    "subtitle": "市價與淨值，是交易前的兩個檢查點",
+    "takeaway": "溢價代表買得比淨值貴；不代表一定馬上回跌，但需要留意。",
+    "cite": [
+      "E05",
+      "E06",
+      "E07"
+    ],
+    "tag": "運作機制"
+  },
+  {
+    "num": 6,
+    "kind": "compare",
+    "eyebrow": "04 / THE COMPARE",
+    "title": "ETF 跟單一股票差在哪？",
+    "subtitle": "一個是公司，一個是基金組合",
+    "takeaway": "ETF 能分散部分個股風險，但無法消除市場下跌的可能。",
+    "cite": [
+      "E04",
+      "E12"
+    ],
+    "tag": "商品比較"
+  },
+  {
+    "num": 7,
+    "kind": "dividend",
+    "eyebrow": "05 / THE DIVIDEND",
+    "title": "領到配息，不等於多賺一筆",
+    "subtitle": "看懂「現金流」與「總報酬」",
+    "takeaway": "ETF 配息不保證；真正要比較的是價格變化＋領到的現金分配，再扣除相關成本。",
+    "cite": [
+      "E08",
+      "E09",
+      "E20"
+    ],
+    "tag": "配息與績效"
+  },
+  {
+    "num": 8,
+    "kind": "costs",
+    "eyebrow": "06 / THE COST",
+    "title": "ETF 的成本，不只交易手續費",
+    "subtitle": "下單前與持有期間，費用都可能發生",
+    "takeaway": "費率與免稅例外可能改變；請查最新規定和公開說明書。",
+    "cite": [
+      "E10",
+      "E11",
+      "E19"
+    ],
+    "tag": "交易費用"
+  },
+  {
+    "num": 9,
+    "kind": "risks",
+    "eyebrow": "07 / THE RISKS",
+    "title": "分散投資 ≠ 不會虧損",
+    "subtitle": "看風險，才知道自己買的是什麼",
+    "takeaway": "海外、集中度、流動性與特殊策略都會改變風險。",
+    "cite": [
+      "E12",
+      "E13",
+      "E14",
+      "E15",
+      "E16"
+    ],
+    "tag": "風險辨識"
+  },
+  {
+    "num": 10,
+    "kind": "quiz",
+    "eyebrow": "FINAL / YOUR TURN",
+    "title": "現在，換你做判斷。",
+    "subtitle": "3 題快速自我檢查＋投資前 6 問",
+    "takeaway": "投資前，先把「目的、標的、風險、費用、價格、配息」都查清楚。",
+    "cite": [
+      "E17",
+      "E18"
+    ],
+    "tag": "知識測驗"
+  }
+]
