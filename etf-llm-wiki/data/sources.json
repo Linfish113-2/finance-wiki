@@ -1,0 +1,95 @@
+[
+  {
+    "id": "S01",
+    "title": "ETF 總覽：定義、種類、風險",
+    "publisher": "臺灣證券交易所 TWSE",
+    "published": "網站動態更新",
+    "url": "https://www.twse.com.tw/zh/products/securities/etf/overview/introduction.html",
+    "section": "ETF定義、種類；ETF風險",
+    "summary": "ETF 為在交易所上市的基金；可於盤中買賣。現今有被動式與主動式ETF；按投資標的區分股票、債券、多資產、期貨與槓桿反向商品，風險結構不同。",
+    "tags": [
+      "定義",
+      "類型",
+      "風險"
+    ]
+  },
+  {
+    "id": "S02",
+    "title": "ETF 交易規則",
+    "publisher": "臺灣證券交易所 TWSE",
+    "published": "網站動態更新",
+    "url": "https://www.twse.com.tw/zh/products/securities/etf/overview/rules.html",
+    "section": "交易方式；交易單位；交易成本",
+    "summary": "臺灣上市新台幣ETF一般可透過證券戶交易；一般一張為1000受益權單位，ETF賣方證交稅原則上0.1%，但商品及期間可能有免稅例外，使用前應查最新規定。",
+    "tags": [
+      "交易",
+      "費用"
+    ]
+  },
+  {
+    "id": "S03",
+    "title": "證交所投資人知識網：ETF 問答",
+    "publisher": "臺灣證券交易所 投資人知識網",
+    "published": "網站動態更新，部分問答可能較舊",
+    "url": "https://investoredu.twse.com.tw/pages/TWSE_InvestmentQA.aspx?ID=11",
+    "section": "ETF 問答：配息、買賣成本、零股交易、ETF與股票差異",
+    "summary": "ETF配息依發行商公開說明書及公告，配息不保證；可在證交所查詢收益分配。證交所問答說明交易手續費、證交稅及零股交易，適用費率需核對現行規定。",
+    "tags": [
+      "配息",
+      "費用",
+      "比較"
+    ]
+  },
+  {
+    "id": "S04",
+    "title": "ETF投資風險",
+    "publisher": "臺灣證券交易所 投資人知識網",
+    "published": "網站動態更新",
+    "url": "https://investoredu.twse.com.tw/Pages/TWSE_InvestmentEntry2_6.aspx?ID=2",
+    "section": "ETF一般投資風險；追蹤誤差",
+    "summary": "被動式ETF面臨指數波動、市場、流動性、折溢價和追蹤誤差風險；投資海外資產需另外考慮匯率與交易時間差。",
+    "tags": [
+      "風險"
+    ]
+  },
+  {
+    "id": "S05",
+    "title": "槓桿型及反向型 ETF",
+    "publisher": "臺灣證券交易所 TWSE",
+    "published": "網站動態更新",
+    "url": "https://www.twse.com.tw/zh/products/securities/etf/products/li.html",
+    "section": "商品特性及風險",
+    "summary": "槓桿及反向ETF追求的是標的指數「單日」的正向倍數或反向報酬，因每日調整和複利效果，長期持有不會等於指數長期報酬的簡單倍數。",
+    "tags": [
+      "類型",
+      "風險"
+    ]
+  },
+  {
+    "id": "S06",
+    "title": "金管會提醒投資 ETF 應考量自身投資需求及瞭解商品特性",
+    "publisher": "金融監督管理委員會（臺灣證券交易所轉載）",
+    "published": "2023-11-08",
+    "url": "https://www.twse.com.tw/zh/ETFortune/newsDetail/ff8080818b7e232e018bacd925a600f9",
+    "section": "商品特性、折溢價及選擇因素",
+    "summary": "選擇ETF時應考量投資目標與風險承受度，查投資標的、追蹤差距、買賣價差、流動性與折溢價。不同投資策略及配息頻率不能直接比較優劣。",
+    "tags": [
+      "選擇方法",
+      "費用",
+      "風險"
+    ]
+  },
+  {
+    "id": "S07",
+    "title": "ETF折溢價：市場熱潮下容易忽略的投資成本",
+    "publisher": "臺灣證券交易所 ETF e添富",
+    "published": "2026-06-03",
+    "url": "https://www.twse.com.tw/zh/ETFortune/invest/8a8216d69e6379f4019e87050e710106",
+    "section": "折溢價定義、套利機制、價差擴大成因",
+    "summary": "ETF市價與基金淨值可能不同，市價高於淨值為溢價、低於淨值為折價。投資情緒、跨市場時間差與流動性可能放大偏離，應留意買入價格。",
+    "tags": [
+      "定價",
+      "風險"
+    ]
+  }
+]
