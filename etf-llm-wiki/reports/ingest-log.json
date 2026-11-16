@@ -1,0 +1,51 @@
+{
+  "ingested_at": "2026-11-16",
+  "method": "read and verify public official pages; curated structured summary, not raw copyrighted full-text",
+  "count": 7,
+  "sources": [
+    {
+      "id": "S01",
+      "url": "https://www.twse.com.tw/zh/products/securities/etf/overview/introduction.html",
+      "title": "ETF 總覽：定義、種類、風險",
+      "section": "ETF定義、種類；ETF風險"
+    },
+    {
+      "id": "S02",
+      "url": "https://www.twse.com.tw/zh/products/securities/etf/overview/rules.html",
+      "title": "ETF 交易規則",
+      "section": "交易方式；交易單位；交易成本"
+    },
+    {
+      "id": "S03",
+      "url": "https://investoredu.twse.com.tw/pages/TWSE_InvestmentQA.aspx?ID=11",
+      "title": "證交所投資人知識網：ETF 問答",
+      "section": "ETF 問答：配息、買賣成本、零股交易、ETF與股票差異"
+    },
+    {
+      "id": "S04",
+      "url": "https://investoredu.twse.com.tw/Pages/TWSE_InvestmentEntry2_6.aspx?ID=2",
+      "title": "ETF投資風險",
+      "section": "ETF一般投資風險；追蹤誤差"
+    },
+    {
+      "id": "S05",
+      "url": "https://www.twse.com.tw/zh/products/securities/etf/products/li.html",
+      "title": "槓桿型及反向型 ETF",
+      "section": "商品特性及風險"
+    },
+    {
+      "id": "S06",
+      "url": "https://www.twse.com.tw/zh/ETFortune/newsDetail/ff8080818b7e232e018bacd925a600f9",
+      "title": "金管會提醒投資 ETF 應考量自身投資需求及瞭解商品特性",
+      "section": "商品特性、折溢價及選擇因素"
+    },
+    {
+      "id": "S07",
+      "url": "https://www.twse.com.tw/zh/ETFortune/invest/8a8216d69e6379f4019e87050e710106",
+      "title": "ETF折溢價：市場熱潮下容易忽略的投資成本",
+      "section": "折溢價定義、套利機制、價差擴大成因"
+    }
+  ],
+  "evidence_count": 20,
+  "topic_count": 7
+}
