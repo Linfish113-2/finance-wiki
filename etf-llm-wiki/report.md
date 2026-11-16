@@ -68,3 +68,11 @@
 ## 7. 心得
 
 本次作業最重要的收穫是：AI 生成的內容看起來流暢，並不代表每個限定語都有保留。把「證據與出處」獨立成檔案、在轉成 HTML 以前做內容關卡，再把畫面問題留給渲染節點處理，可以讓錯誤在最接近源頭的地方被發現。真正可信的流程需要保留可執行的檢查與誠實的失敗紀錄，而不是只要求 AI 「再檢查一次」。
+
+## 8. GitHub 實際推送紀錄（2026-11-16）
+
+- 已將文字檔共 41 份上傳至使用者原有公開倉庫的 `etf-llm-wiki/` 獨立目錄，保留舊專案。
+- 實際專案網址：<https://github.com/Linfish113-2/finance-wiki/tree/main/etf-llm-wiki>。
+- 已以 GitHub 連接器在 `main` 分支重新讀取 `slides/index.html`、`wiki/index.html`、`raw/S01-ETF.md`、`cards/evidence.json` 與 JS/CSS，確認遠端檔案存在。
+- 原倉庫已有 Jekyll／GitHub Pages 自動部署設定，但本執行環境無法證明 Pages 的公開 URL 已部署成功；目前僅能確認 GitHub **原始碼已上傳**，公開網站仍需人工瀏覽驗證，不能宣稱已驗收網站。
+- 提供單一檔案的離線 Wiki 和簡報作為備用預覽。
